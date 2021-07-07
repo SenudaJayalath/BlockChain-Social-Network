@@ -1,6 +1,14 @@
 # BlockChain-Social-Network
 A Social Network running on a BlockChain
 
+## Technologies and Programming languages used
+
+- Web3.js
+- Solidity
+- React framework
+- Javascript
+
+
 Special functionalities :
 
 - Any user can Add Posts to the Social Network
