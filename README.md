@@ -9,7 +9,7 @@ A Social Network running on a BlockChain
 - Javascript
 
 
-Special functionalities :
+## Special functionalities :
 
 - Any user can Add Posts to the Social Network
 - Any user can tip any Post
